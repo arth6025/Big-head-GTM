@@ -89,7 +89,15 @@ Free install. Shopify passes store metadata automatically — no URL entry neede
 **6. Agency Prospecting Angle** *(Agency-specific)*
 For agencies: run `/audit` on a prospect's store before the pitch meeting. Walk in with live data. "We already checked — here's where you stand in AI search." Position: the audit is a prospecting weapon, not just self-diagnosis.
 
-**7. SEO/GEO Experts Contribution Wall**
+**7. Agency Workshop: "SEO is Dead for DTC. Here's What's Replacing It."**
+A closed-room roundtable (15–25 people) for Shopify SEO agency owners. Not a demo, not a webinar — a practitioner conversation. The hook: run a live `/audit` on a volunteer's client store in front of the room. Seeing a real client score 14/100 while a competitor scores 71/100 needs no pitch. Every attendee leaves with the AEO agency playbook + 30-day agency dashboard trial.
+
+Each workshop attendee is a potential 10–20x revenue multiplier. One agency with 15 clients = 15 potential paid subscriptions.
+
+> *(Full logistics, agenda, pre-event email sequence, and scaling plan in `workshop-plan-shopify-agencies.md`)*
+> Hosted on Luma. Closed/application-only registration for scarcity.
+
+**8. SEO/GEO Experts Contribution Wall**
 A public community resource where Shopify SEO and GEO practitioners share prompt wins, content formats that get cited, technical tips, and before/after case studies. Owned by Big Head, open to the DTC community.
 Every contribution has a "verify this on your store →" CTA that routes back to `/audit`.
 Positions Big Head as the community hub for Shopify AI visibility — not just a tool.
@@ -177,11 +185,25 @@ First-class product tier for agencies. White-label audit reports, multi-brand da
 | `lead-magnet-checklist.md` | 25-point DTC AI Visibility Checklist | PMM | Ready to gate |
 | `lead-magnet-benchmark-report.md` | AI Visibility Benchmark Report | PMM | Ready to gate |
 | `email-copies.md` | All 4 email copies (first citation + 3 upgrade triggers) | CRM/Growth | Ready to wire up |
+| `workshop-plan-shopify-agencies.md` | Full workshop plan for Shopify SEO agencies | PMM | Ready to run |
 | `pm-task-weekly-digest.md` | PM brief: Weekly AI Digest (paid PLG feature) | **PM** | Needs assignment |
 | `pmm-task-leaderboard.md` | PMM brief: Top 100 leaderboard social release | **PMM** | Needs assignment |
 | `community-contribution-wall.md` | SEO/GEO experts contribution wall concept | Product + Community | Needs assignment |
 | `../big-head-plg-playbook.md` | Full PLG activities detail (extended) | Internal | Reference |
 | `../product-marketing.md` | Product marketing context | Internal | Reference |
+
+---
+
+## Lead Magnet Examples to Incorporate
+
+> **[PENDING]** User shared examples from https://x.com/i/status/2058170784351404277 — paste the post text here and this section will be updated with specific lead magnet formats to add to the funnel.
+
+### Competitor Intelligence (from Nayrhit Bhattacharya / GEO firm)
+> **[PENDING]** Two LinkedIn posts shared as competitor reference:
+> - Post 1 (post-$9M raise): https://www.linkedin.com/posts/nayrhit_two-months-after-closing-our-9m-round-last-activity-7462519202361335809-dzdC
+> - Post 2 (skincare brand case study): https://www.linkedin.com/posts/nayrhit_a-contract-manufacturer-of-skincare-products-activity-7461048151815270400-nBVP
+>
+> Paste the post text here → will be used to update competitive positioning, sharpen the case study angle in the benchmark report, and identify any tactics this competitor is using that Big Head should counter or adopt.
 
 ---
 
